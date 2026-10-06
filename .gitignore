@@ -1,0 +1,10 @@
+# tooling skills, bukan bagian situs
+.agents/
+skills-lock.json
+
+# video besar + arsip, tidak ikut ke repo
+birthday-video/
+birthday-video.zip
+
+# git
+.git/
